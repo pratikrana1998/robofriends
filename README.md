@@ -2,9 +2,9 @@ A simple React app created with [Create React App](https://github.com/facebook/c
 
 Robofriends is an app that allows you to search from a list of robofriends. It is my first react app that I have created to test out the React library and its components.
 
-This project has been created using React, Redux and Redux-thunk libraries.
+This project has been created using react, redux and redux-thunk libraries.
 
-The robots have been fetched from JSONplaceholder. You can add your own database for the robots by replacing the apiCall in the actions.
+The robots have been fetched from JSONplaceholder. You can add your own database for the robots by replacing the link of apiCall in the actions.
 Redux has been used for state management.The thunk middleware has been used for mocking the redux store during testing.
 
 The app has been deployed using github-pages.
