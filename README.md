@@ -20,7 +20,6 @@ You can run the project locally by cloning the repo and running the command:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Here is a screenshot of the app :)
 
 
 
